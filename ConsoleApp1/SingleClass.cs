@@ -19,7 +19,7 @@ namespace ConsoleApp1
         }
 
         public void showMsg() {
-            Console.WriteLine("Hellow");
+            Console.WriteLine("Hey");
         }
 }
 }
