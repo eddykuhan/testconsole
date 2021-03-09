@@ -15,7 +15,7 @@ namespace ConsoleApp4
         {
             this.fileName = fileName;
         }
-        public abstract void test();
+
         public void display()
         {
 

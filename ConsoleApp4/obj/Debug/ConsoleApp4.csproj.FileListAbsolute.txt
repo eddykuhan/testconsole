@@ -5,3 +5,7 @@ C:\Users\kdhanyan\source\repos\ConsoleApp3\ConsoleApp4\obj\Debug\ConsoleApp4.csp
 C:\Users\kdhanyan\source\repos\ConsoleApp3\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
 C:\Users\kdhanyan\source\repos\ConsoleApp3\ConsoleApp4\obj\Debug\ConsoleApp4.exe
 C:\Users\kdhanyan\source\repos\ConsoleApp3\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\kdhanyan\source\repos\testconsole\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\kdhanyan\source\repos\testconsole\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\kdhanyan\source\repos\testconsole\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\kdhanyan\source\repos\testconsole\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
