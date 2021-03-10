@@ -19,7 +19,7 @@ namespace ConsoleApp1
         }
 
         public void showMsg() {
-            Console.WriteLine("Hey");
+            Console.WriteLine("Have a nice day!");
         }
 }
 }
